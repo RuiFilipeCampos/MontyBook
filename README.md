@@ -21,6 +21,8 @@ Secure channels will be established between `kernel` and `main` to prevent any s
 
 MontyBook is meant for prototyping. 
 
+
+```
 ---------------------------
 -                         -
 -                         -
@@ -38,6 +40,6 @@ MontyBook is meant for prototyping.
 -          [simulate]     -
 -                         -
 ---------------------------
-
+```
 
 
