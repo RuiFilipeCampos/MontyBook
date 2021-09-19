@@ -52,9 +52,11 @@ MontyBook is meant for prototyping.
   
   "body":{
     "materials":[
-        {"name":"Water(Liquid)", 
+        {
+        "name":"Water(Liquid)", 
         "compiled":1, 
-        "formula":{"H":2, "O":1}},
+        "formula":{"H":2, "O":1}
+        },
         ],
      "code":"#actual python code", 
      "sources": {},
