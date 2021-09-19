@@ -49,7 +49,6 @@ MontyBook is meant for prototyping.
 ```JSON
 {
   "name":"User defined name",
-  
   "body":{
     "materials":[
         {
@@ -60,7 +59,6 @@ MontyBook is meant for prototyping.
         ],
      "code":"#actual python code", 
      "sources": {},
-     
   },
 }
 ```
