@@ -43,3 +43,23 @@ MontyBook is meant for prototyping.
 ```
 
 
+
+
+
+```JSON
+{
+  "name":"User defined name",
+  
+  "body":{
+    "materials":[
+        {"name":"Water(Liquid)", 
+        "compiled":1, 
+        "formula":{"H":2, "O":1}},
+        ],
+     "code":"#actual python code", 
+     "sources": {},
+     
+  },
+}
+```
+
